@@ -1,0 +1,6 @@
+base64
+streamlit
+pickle
+pandas
+matplotlib.pyplot
+seaborn
